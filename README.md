@@ -6,4 +6,4 @@ Counting times of calling interfaces
 - Using RESTful API
 - Using tornado
 - Using MySQL
-- Using redis
+- Using Redis
